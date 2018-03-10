@@ -1,3 +1,4 @@
+* [Getting started](#getting-started)
 * [go语言开发环境安装使用](#1)<br>
 * [go语言开发环境的使用](#2)<br>
 
@@ -12,6 +13,7 @@
 > 6、在 vagrant 目录下执行 vagrant init ./centos-7.0-x86_64-go-env.box 命令<br>
 > 7、在vagrant 目录下执行 vagrant up 命令，等待命令执行完毕，执行 vagrant ssh 进入虚拟机，到此go 语言开发环境安装完毕<br>
 
+# Getting Started
 # go语言开发环境的使用
 > #### 打开vim 的时候发现找不到vim 的时候，执行source /etc/profile 即可；<br>
 > 上面的步骤我们完成了go 的开发环境的安装，接下来 我们来介绍该开发环境的使用<br>
